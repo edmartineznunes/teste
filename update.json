@@ -1,10 +1,5 @@
 {
-  "min_version" : "1.0",
-  "builds" : [
-    {
-      "arch": ["armeabi-v7a", "arm64-v8a", "x86", "x86_64"],
-      "min_api": 21,
-      "api" : 30,
-      "artifact" : "appupdater-1.0-armeabi-v7a-debug.apk"
-    }]
+  "version": "1.0.1",
+  "url": "https://github.com",
+  "details": "O que há de novo: Correção de bugs e melhorias de performance."
 }
